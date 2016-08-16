@@ -1,0 +1,14 @@
+layout_spectrum: 0.03571207611821592
+typography_spectrum: 0.9002977807540447
+color:
+  brandStrength: 0.1269709151238203
+  lightness: 0.487647021189332
+  saturation: 0.19099865038879216
+  rhythmicContrast: 0.7607231282163411
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+name: vandemot
